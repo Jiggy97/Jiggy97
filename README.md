@@ -1,6 +1,6 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiggy97&hide_progress=true&theme=garden)](https://github.com/Jiggy97/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiggy97&hide_progress=true&theme=javascript)](https://github.com/Jiggy97/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jiggy97&theme=garden)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jiggy97&theme=javascript)](https://git.io/streak-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jiggy97&theme=garden)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jiggy97&theme=javascript)
 
