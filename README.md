@@ -1,4 +1,4 @@
- <img src="https://img.shields.io/badge/Tistory-3178C6?style=flat&logo=Tistory&logoColor=white"/>
+<a href="https://foreveryoung97.tistory.com/" target="_blank"> <img src="https://img.shields.io/badge/Tistory-3178C6?style=flat&logo=Tistory&logoColor=white"/>
 
 
 <!--
