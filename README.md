@@ -1,4 +1,4 @@
- <img src="https://img.shields.io/badge/Tistory-#E44332?style=flat&logo=Velog&logoColor=black"/>
+ <img src="https://img.shields.io/badge/Tistory-#E44332?style=flat&logo=Tistory&logoColor=black"/>
 
 
 <!--
