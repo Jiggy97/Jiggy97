@@ -1,4 +1,4 @@
-<a href="[클릭시 이동할 링크](https://foreveryoung97.tistory.com/)" target="_blank"><img src="https://img.shields.io/badge/tistory-#E44332?style=flat-square&logo=blogger&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/Tistory-#E44332?style=flat&logo=tistory&logoColor=black"/>
 
 
 <!--
