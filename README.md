@@ -1,7 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Developer-Jiggy&fontSize=70" />
-
-
 <a href="https://foreveryoung97.tistory.com/" target="_blank"> <img src="https://img.shields.io/badge/Tistory-black?style=flat&logo=Tistory&logoColor=white"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Developer-Jiggy&fontSize=70" />
 
 
 <!--
