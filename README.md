@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Developer-Jiggy&fontSize=70" />
 
- <a href="https://foreveryoung97.tistory.com/" target="_blank"> <img src="https://img.shields.io/badge/Tistory-black?style=flat&logo=Tistory&logoColor=white"/> 
+<div align="center">
+  <a href="https://foreveryoung97.tistory.com/" target="_blank"> <img src="https://img.shields.io/badge/Tistory-black?style=flat&logo=Tistory&logoColor=white"/> 
  <br>
  공부한 내용을 정리한 블로그입니다
 <br><br><br><br>
@@ -15,4 +16,5 @@
 <!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jiggy97&)
 -->
+</div>
 
