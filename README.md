@@ -2,9 +2,7 @@
 
 <div align="center">
   <a href="https://foreveryoung97.tistory.com/" target="_blank"> <img src="https://img.shields.io/badge/Tistory-black?style=flat&logo=Tistory&logoColor=white"/> 
- <br>
- 공부한 내용을 정리한 블로그입니다
-<br><br><br><br>
+ <br><br>
 <!--
 <a href="https://foreveryoung97.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>3178C6
 -->
