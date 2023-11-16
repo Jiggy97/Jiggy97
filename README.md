@@ -1,7 +1,3 @@
-# Blog<br>
-<a href="https://foreveryoung97.tistory.com/" target="_blank"> <img src="https://img.shields.io/badge/Tistory-black?style=flat&logo=Tistory&logoColor=white"/> 
-
-
 # skill<br>
 
 ### 📚Languege <br>
